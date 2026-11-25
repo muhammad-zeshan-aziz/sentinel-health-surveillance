@@ -1,0 +1,405 @@
+{
+  "disease": "Typhoid",
+  "winning_model": "Gradient_Boosting_Trend",
+  "overall_metrics": {
+    "mae": 9.79,
+    "rmse": 17.81,
+    "nrmse": 0.867,
+    "mean_actual": 20.53,
+    "mean_predicted": 20.5,
+    "n_samples": 2034,
+    "picp_95": 0.858,
+    "mean_interval_width": 37.41
+  },
+  "benchmark_comparison": {
+    "Persistence_Naive": {
+      "mae": 10.52,
+      "rmse": 19.84,
+      "nrmse": 0.966,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.5,
+      "n_samples": 2034
+    },
+    "Rolling_Mean_4W": {
+      "mae": 9.26,
+      "rmse": 16.33,
+      "nrmse": 0.795,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.33,
+      "n_samples": 2034
+    },
+    "Seasonal_Naive_52W": {
+      "mae": 19.07,
+      "rmse": 36.0,
+      "nrmse": 1.753,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.66,
+      "n_samples": 2034
+    },
+    "SARIMAX": {
+      "mae": 210.7,
+      "rmse": 213.61,
+      "nrmse": 10.402,
+      "mean_actual": 20.53,
+      "mean_predicted": 231.23,
+      "n_samples": 2034
+    },
+    "Random_Forest_Direct": {
+      "mae": 9.79,
+      "rmse": 16.94,
+      "nrmse": 0.825,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.6,
+      "n_samples": 2034
+    },
+    "Gradient_Boosting_Direct": {
+      "mae": 10.01,
+      "rmse": 17.42,
+      "nrmse": 0.848,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.58,
+      "n_samples": 2034
+    },
+    "Random_Forest_Trend": {
+      "mae": 9.89,
+      "rmse": 17.97,
+      "nrmse": 0.875,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.59,
+      "n_samples": 2034
+    },
+    "Gradient_Boosting_Trend": {
+      "mae": 9.79,
+      "rmse": 17.81,
+      "nrmse": 0.867,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.5,
+      "n_samples": 2034
+    },
+    "XGBoost_Trend": {
+      "mae": 9.95,
+      "rmse": 18.1,
+      "nrmse": 0.881,
+      "mean_actual": 20.53,
+      "mean_predicted": 20.67,
+      "n_samples": 2034
+    }
+  },
+  "per_district": {
+    "PK501": {
+      "district_name": "Abbottabad",
+      "district_pcode": "PK501",
+      "mae": 15.98,
+      "rmse": 22.8,
+      "picp_95": 0.763,
+      "mean_interval_width": 45.52,
+      "n_samples": 59
+    },
+    "PK502": {
+      "district_name": "Bajaur",
+      "district_pcode": "PK502",
+      "mae": 10.37,
+      "rmse": 19.29,
+      "picp_95": 0.814,
+      "mean_interval_width": 28.73,
+      "n_samples": 59
+    },
+    "PK503": {
+      "district_name": "Bannu",
+      "district_pcode": "PK503",
+      "mae": 21.45,
+      "rmse": 29.67,
+      "picp_95": 0.763,
+      "mean_interval_width": 89.44,
+      "n_samples": 59
+    },
+    "PK504": {
+      "district_name": "Batagram",
+      "district_pcode": "PK504",
+      "mae": 2.99,
+      "rmse": 4.54,
+      "picp_95": 0.949,
+      "mean_interval_width": 9.66,
+      "n_samples": 39
+    },
+    "PK505": {
+      "district_name": "Buner",
+      "district_pcode": "PK505",
+      "mae": 3.48,
+      "rmse": 4.8,
+      "picp_95": 0.864,
+      "mean_interval_width": 15.44,
+      "n_samples": 59
+    },
+    "PK506": {
+      "district_name": "Charsadda",
+      "district_pcode": "PK506",
+      "mae": 29.8,
+      "rmse": 44.57,
+      "picp_95": 0.746,
+      "mean_interval_width": 98.69,
+      "n_samples": 59
+    },
+    "PK507": {
+      "district_name": "Chitral Lower",
+      "district_pcode": "PK507",
+      "mae": 4.65,
+      "rmse": 7.64,
+      "picp_95": 0.932,
+      "mean_interval_width": 24.7,
+      "n_samples": 59
+    },
+    "PK508": {
+      "district_name": "Chitral Upper",
+      "district_pcode": "PK508",
+      "mae": 4.05,
+      "rmse": 4.93,
+      "picp_95": 0.966,
+      "mean_interval_width": 28.29,
+      "n_samples": 59
+    },
+    "PK509": {
+      "district_name": "D. I. Khan",
+      "district_pcode": "PK509",
+      "mae": 6.45,
+      "rmse": 16.27,
+      "picp_95": 0.949,
+      "mean_interval_width": 22.2,
+      "n_samples": 59
+    },
+    "PK510": {
+      "district_name": "Hangu",
+      "district_pcode": "PK510",
+      "mae": 1.83,
+      "rmse": 2.47,
+      "picp_95": 0.929,
+      "mean_interval_width": 16.69,
+      "n_samples": 56
+    },
+    "PK511": {
+      "district_name": "Haripur",
+      "district_pcode": "PK511",
+      "mae": 4.9,
+      "rmse": 6.54,
+      "picp_95": 0.864,
+      "mean_interval_width": 21.12,
+      "n_samples": 59
+    },
+    "PK512": {
+      "district_name": "Karak",
+      "district_pcode": "PK512",
+      "mae": 3.73,
+      "rmse": 5.05,
+      "picp_95": 0.949,
+      "mean_interval_width": 16.11,
+      "n_samples": 59
+    },
+    "PK513": {
+      "district_name": "Khyber",
+      "district_pcode": "PK513",
+      "mae": 24.58,
+      "rmse": 31.25,
+      "picp_95": 0.695,
+      "mean_interval_width": 73.84,
+      "n_samples": 59
+    },
+    "PK514": {
+      "district_name": "Kohat",
+      "district_pcode": "PK514",
+      "mae": 6.56,
+      "rmse": 8.0,
+      "picp_95": 0.857,
+      "mean_interval_width": 22.7,
+      "n_samples": 56
+    },
+    "PK515": {
+      "district_name": "Kohistan Lower",
+      "district_pcode": "PK515",
+      "mae": 1.45,
+      "rmse": 2.29,
+      "picp_95": 0.966,
+      "mean_interval_width": 6.81,
+      "n_samples": 59
+    },
+    "PK516": {
+      "district_name": "Kohistan Upper",
+      "district_pcode": "PK516",
+      "mae": 4.51,
+      "rmse": 6.15,
+      "picp_95": 0.932,
+      "mean_interval_width": 25.83,
+      "n_samples": 59
+    },
+    "PK517": {
+      "district_name": "Kolai Palas Kohistan",
+      "district_pcode": "PK517",
+      "mae": 2.1,
+      "rmse": 2.62,
+      "picp_95": 0.983,
+      "mean_interval_width": 11.51,
+      "n_samples": 58
+    },
+    "PK518": {
+      "district_name": "Kurram",
+      "district_pcode": "PK518",
+      "mae": 7.2,
+      "rmse": 9.86,
+      "picp_95": 0.915,
+      "mean_interval_width": 40.24,
+      "n_samples": 59
+    },
+    "PK519": {
+      "district_name": "Lakki Marwat",
+      "district_pcode": "PK519",
+      "mae": 5.47,
+      "rmse": 7.56,
+      "picp_95": 0.831,
+      "mean_interval_width": 20.86,
+      "n_samples": 59
+    },
+    "PK520": {
+      "district_name": "Lower Dir",
+      "district_pcode": "PK520",
+      "mae": 14.69,
+      "rmse": 20.43,
+      "picp_95": 0.847,
+      "mean_interval_width": 49.47,
+      "n_samples": 59
+    },
+    "PK521": {
+      "district_name": "Malakand",
+      "district_pcode": "PK521",
+      "mae": 14.55,
+      "rmse": 20.28,
+      "picp_95": 0.768,
+      "mean_interval_width": 45.56,
+      "n_samples": 56
+    },
+    "PK522": {
+      "district_name": "Mansehra",
+      "district_pcode": "PK522",
+      "mae": 9.46,
+      "rmse": 16.99,
+      "picp_95": 0.831,
+      "mean_interval_width": 37.26,
+      "n_samples": 59
+    },
+    "PK523": {
+      "district_name": "Mardan",
+      "district_pcode": "PK523",
+      "mae": 9.31,
+      "rmse": 14.51,
+      "picp_95": 0.881,
+      "mean_interval_width": 43.39,
+      "n_samples": 59
+    },
+    "PK524": {
+      "district_name": "Mohmand",
+      "district_pcode": "PK524",
+      "mae": 7.67,
+      "rmse": 17.11,
+      "picp_95": 0.932,
+      "mean_interval_width": 27.69,
+      "n_samples": 59
+    },
+    "PK525": {
+      "district_name": "North Waziristan",
+      "district_pcode": "PK525",
+      "mae": 6.02,
+      "rmse": 11.51,
+      "picp_95": 0.845,
+      "mean_interval_width": 20.36,
+      "n_samples": 58
+    },
+    "PK526": {
+      "district_name": "Nowshera",
+      "district_pcode": "PK526",
+      "mae": 6.94,
+      "rmse": 9.14,
+      "picp_95": 0.814,
+      "mean_interval_width": 22.26,
+      "n_samples": 59
+    },
+    "PK527": {
+      "district_name": "Orakzai",
+      "district_pcode": "PK527",
+      "mae": 2.83,
+      "rmse": 5.03,
+      "picp_95": 0.915,
+      "mean_interval_width": 11.35,
+      "n_samples": 59
+    },
+    "PK528": {
+      "district_name": "Peshawar",
+      "district_pcode": "PK528",
+      "mae": 25.5,
+      "rmse": 31.18,
+      "picp_95": 0.78,
+      "mean_interval_width": 104.83,
+      "n_samples": 59
+    },
+    "PK529": {
+      "district_name": "Shangla",
+      "district_pcode": "PK529",
+      "mae": 11.18,
+      "rmse": 17.78,
+      "picp_95": 0.797,
+      "mean_interval_width": 36.54,
+      "n_samples": 59
+    },
+    "PK530": {
+      "district_name": "South Waziristan",
+      "district_pcode": "PK530",
+      "mae": 7.22,
+      "rmse": 12.14,
+      "picp_95": 0.898,
+      "mean_interval_width": 28.24,
+      "n_samples": 59
+    },
+    "PK531": {
+      "district_name": "Swabi",
+      "district_pcode": "PK531",
+      "mae": 22.93,
+      "rmse": 35.83,
+      "picp_95": 0.746,
+      "mean_interval_width": 54.63,
+      "n_samples": 59
+    },
+    "PK532": {
+      "district_name": "Swat",
+      "district_pcode": "PK532",
+      "mae": 17.82,
+      "rmse": 23.57,
+      "picp_95": 0.746,
+      "mean_interval_width": 49.06,
+      "n_samples": 59
+    },
+    "PK533": {
+      "district_name": "Tank",
+      "district_pcode": "PK533",
+      "mae": 12.63,
+      "rmse": 16.54,
+      "picp_95": 0.881,
+      "mean_interval_width": 99.08,
+      "n_samples": 59
+    },
+    "PK534": {
+      "district_name": "Tor Ghar",
+      "district_pcode": "PK534",
+      "mae": 4.54,
+      "rmse": 6.74,
+      "picp_95": 0.847,
+      "mean_interval_width": 28.71,
+      "n_samples": 59
+    },
+    "PK535": {
+      "district_name": "Upper Dir",
+      "district_pcode": "PK535",
+      "mae": 5.03,
+      "rmse": 6.41,
+      "picp_95": 0.881,
+      "mean_interval_width": 21.15,
+      "n_samples": 59
+    }
+  }
+}
