@@ -1,0 +1,69 @@
+# Python environments & caches
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+.installed.cfg
+*.egg
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Node & frontend build outputs
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Secrets & local config (Keep .env.example tracked)
+.env
+.env.local
+*.pem
+*.key
+
+# Heavy raw source data & temporary artifacts
+data/raw/
+*.log
+*.tmp
+*.bak
+*.orig
+*.webm
+*.mp4
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker / database volumes
+docker_data/
+postgres_data/
