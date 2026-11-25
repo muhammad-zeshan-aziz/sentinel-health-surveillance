@@ -1,0 +1,8 @@
+external_record_id,test_date,facility_name,district,disease,test_type,test_result,age_band,gender,patient_hash,source_type,PATIENT_NAME
+,2025-05-15,Ayub Teaching Hospital,Abbottabad,Malaria,RDT,Positive,25-44,Male,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,synthetic_demo,
+ERR-FUTURE-001,2030-08-20,DHQ Hospital Swat,Swat,Typhoid,Blood Culture,Positive,15-24,Female,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,synthetic_demo,
+ERR-DATE-002,2025-02-31,DHQ Hospital Haripur,Haripur,Malaria,RDT,Negative,5-14,Male,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,synthetic_demo,
+ERR-DIST-003,2025-05-12,Atlantis Regional Center,Atlantis,Malaria,RDT,Positive,25-44,Male,dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,synthetic_demo,
+ERR-DIS-004,2025-05-14,DHQ Hospital Mansehra,Mansehra,Vampirism,PCR,Positive,45-64,Female,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,synthetic_demo,
+ERR-RES-005,2025-05-16,DHQ Hospital Timergara,Lower Dir,Typhoid,Widal,Maybe,25-44,Male,ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,synthetic_demo,
+ERR-PII-006,2025-05-18,Ayub Teaching Hospital,Abbottabad,Malaria,RDT,Positive,25-44,Male,1111111111111111111111111111111111111111111111111111111111111111,synthetic_demo,Muhammad Ali

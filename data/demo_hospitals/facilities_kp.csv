@@ -1,0 +1,71 @@
+facility_id,district_pcode,district_name,facility_name,facility_type,tehsil,lat,lon,is_spotlight,is_mock,api_sync_enabled
+1,PK501,Abbottabad,Ayub Teaching Hospital (ATH),tertiary_hospital,Abbottabad,34.10458,73.301141,True,False,True
+2,PK501,Abbottabad,Abbottabad District Public Health Diagnostic Lab,lab,Abbottabad,34.08458,73.28114099999999,False,True,True
+3,PK502,Bajaur,DHQ Hospital Bajaur,dhq,Bajaur,34.745785,71.485718,False,False,True
+4,PK502,Bajaur,Bajaur District Public Health Diagnostic Lab,lab,Bajaur,34.735785,71.475718,False,True,True
+5,PK503,Bannu,DHQ Hospital Bannu,dhq,Bannu,32.985017,70.65532,False,False,True
+6,PK503,Bannu,Bannu District Public Health Diagnostic Lab,lab,Bannu,32.975017,70.64532,False,True,True
+7,PK504,Batagram,DHQ Hospital Batagram,dhq,Batagram,34.761819,73.137432,False,False,True
+8,PK504,Batagram,Batagram District Public Health Diagnostic Lab,lab,Batagram,34.751819000000005,73.127432,False,True,True
+9,PK505,Buner,DHQ Hospital Buner,dhq,Buner,34.430747,72.556257,False,False,True
+10,PK505,Buner,Buner District Public Health Diagnostic Lab,lab,Buner,34.420747,72.546257,False,True,True
+11,PK506,Charsadda,DHQ Hospital Charsadda,dhq,Charsadda,34.247859,71.699396,False,False,True
+12,PK506,Charsadda,Charsadda District Public Health Diagnostic Lab,lab,Charsadda,34.237859,71.68939599999999,False,True,True
+13,PK507,Chitral Lower,DHQ Hospital Chitral Lower,dhq,Chitral Lower,35.847399,71.826438,False,False,True
+14,PK507,Chitral Lower,Chitral Lower District Public Health Diagnostic Lab,lab,Chitral Lower,35.837399000000005,71.81643799999999,False,True,True
+15,PK508,Chitral Upper,DHQ Hospital Chitral Upper,dhq,Chitral Upper,36.328033,72.268856,False,False,True
+16,PK508,Chitral Upper,Chitral Upper District Public Health Diagnostic Lab,lab,Chitral Upper,36.318033,72.258856,False,True,True
+17,PK509,D. I. Khan,DHQ Hospital D. I. Khan,dhq,D. I. Khan,31.849972,70.625037,False,False,True
+18,PK509,D. I. Khan,D. I. Khan District Public Health Diagnostic Lab,lab,D. I. Khan,31.839972,70.615037,False,True,True
+19,PK510,Hangu,DHQ Hospital Hangu,dhq,Hangu,33.412165,70.804159,False,False,True
+20,PK510,Hangu,Hangu District Public Health Diagnostic Lab,lab,Hangu,33.402165000000004,70.794159,False,True,True
+21,PK511,Haripur,DHQ Hospital Haripur,dhq,Haripur,34.057845,72.885637,True,False,True
+22,PK511,Haripur,Haripur District Public Health Diagnostic Lab,lab,Haripur,34.037845000000004,72.86563699999999,False,True,True
+23,PK512,Karak,DHQ Hospital Karak,dhq,Karak,33.101259,71.110554,False,False,True
+24,PK512,Karak,Karak District Public Health Diagnostic Lab,lab,Karak,33.091259,71.10055399999999,False,True,True
+25,PK513,Khyber,DHQ Hospital Khyber,dhq,Khyber,34.039993,71.205406,False,False,True
+26,PK513,Khyber,Khyber District Public Health Diagnostic Lab,lab,Khyber,34.029993000000005,71.19540599999999,False,True,True
+27,PK514,Kohat,DHQ Hospital Kohat,dhq,Kohat,33.412245,71.488227,False,False,True
+28,PK514,Kohat,Kohat District Public Health Diagnostic Lab,lab,Kohat,33.402245,71.47822699999999,False,True,True
+29,PK515,Kohistan Lower,DHQ Hospital Kohistan Lower,dhq,Kohistan Lower,35.149689,72.922961,False,False,True
+30,PK515,Kohistan Lower,Kohistan Lower District Public Health Diagnostic Lab,lab,Kohistan Lower,35.139689000000004,72.912961,False,True,True
+31,PK516,Kohistan Upper,DHQ Hospital Kohistan Upper,dhq,Kohistan Upper,35.422813,73.221321,False,False,True
+32,PK516,Kohistan Upper,Kohistan Upper District Public Health Diagnostic Lab,lab,Kohistan Upper,35.412813,73.211321,False,True,True
+33,PK517,Kolai Palas Kohistan,DHQ Hospital Kolai Palas Kohistan,dhq,Kolai Palas Kohistan,35.067438,73.175075,False,False,True
+34,PK517,Kolai Palas Kohistan,Kolai Palas Kohistan District Public Health Diagnostic Lab,lab,Kolai Palas Kohistan,35.057438000000005,73.165075,False,True,True
+35,PK518,Kurram,DHQ Hospital Kurram,dhq,Kurram,33.689642,70.384367,False,False,True
+36,PK518,Kurram,Kurram District Public Health Diagnostic Lab,lab,Kurram,33.679642,70.37436699999999,False,True,True
+37,PK519,Lakki Marwat,DHQ Hospital Lakki Marwat,dhq,Lakki Marwat,32.570343,70.879718,False,False,True
+38,PK519,Lakki Marwat,Lakki Marwat District Public Health Diagnostic Lab,lab,Lakki Marwat,32.560343,70.86971799999999,False,True,True
+39,PK520,Lower Dir,DHQ Hospital Timergara,dhq,Timergara,34.85094,71.830222,True,False,True
+40,PK520,Lower Dir,Lower Dir District Public Health Diagnostic Lab,lab,Lower Dir,34.830940000000005,71.810222,False,True,True
+41,PK521,Malakand,DHQ Hospital Malakand,dhq,Malakand,34.516635,71.823629,False,False,True
+42,PK521,Malakand,Malakand District Public Health Diagnostic Lab,lab,Malakand,34.506635,71.81362899999999,False,True,True
+43,PK522,Mansehra,District Headquarter (DHQ) Hospital Mansehra,dhq,Mansehra,34.705734,73.52194300000001,True,False,True
+44,PK522,Mansehra,Mansehra District Public Health Diagnostic Lab,lab,Mansehra,34.685734000000004,73.501943,False,True,True
+45,PK523,Mardan,DHQ Hospital Mardan,dhq,Mardan,34.303371,72.080786,False,False,True
+46,PK523,Mardan,Mardan District Public Health Diagnostic Lab,lab,Mardan,34.293371,72.070786,False,True,True
+47,PK524,Mohmand,DHQ Hospital Mohmand,dhq,Mohmand,34.446085,71.366493,False,False,True
+48,PK524,Mohmand,Mohmand District Public Health Diagnostic Lab,lab,Mohmand,34.436085,71.356493,False,True,True
+49,PK525,North Waziristan,DHQ Hospital North Waziristan,dhq,North Waziristan,32.957051,69.942817,False,False,True
+50,PK525,North Waziristan,North Waziristan District Public Health Diagnostic Lab,lab,North Waziristan,32.947051,69.932817,False,True,True
+51,PK526,Nowshera,DHQ Hospital Nowshera,dhq,Nowshera,33.917092,72.002809,False,False,True
+52,PK526,Nowshera,Nowshera District Public Health Diagnostic Lab,lab,Nowshera,33.907092,71.992809,False,True,True
+53,PK527,Orakzai,DHQ Hospital Orakzai,dhq,Orakzai,33.694903,70.8782,False,False,True
+54,PK527,Orakzai,Orakzai District Public Health Diagnostic Lab,lab,Orakzai,33.684903,70.8682,False,True,True
+55,PK528,Peshawar,DHQ Hospital Peshawar,dhq,Peshawar,33.941726,71.600011,False,False,True
+56,PK528,Peshawar,Peshawar District Public Health Diagnostic Lab,lab,Peshawar,33.931726000000005,71.59001099999999,False,True,True
+57,PK529,Shangla,DHQ Hospital Shangla,dhq,Shangla,34.846656,72.789854,False,False,True
+58,PK529,Shangla,Shangla District Public Health Diagnostic Lab,lab,Shangla,34.836656000000005,72.779854,False,True,True
+59,PK530,South Waziristan,DHQ Hospital South Waziristan,dhq,South Waziristan,32.291481,69.677525,False,False,True
+60,PK530,South Waziristan,South Waziristan District Public Health Diagnostic Lab,lab,South Waziristan,32.281481,69.667525,False,True,True
+61,PK531,Swabi,DHQ Hospital Swabi,dhq,Swabi,34.141187,72.476762,False,False,True
+62,PK531,Swabi,Swabi District Public Health Diagnostic Lab,lab,Swabi,34.131187000000004,72.46676199999999,False,True,True
+63,PK532,Swat,Saidu Teaching & DHQ Hospital Swat,tertiary_hospital,Saidu Sharif,35.243075999999995,72.52185,True,False,True
+64,PK532,Swat,Swat District Public Health Diagnostic Lab,lab,Swat,35.223076,72.50184999999999,False,True,True
+65,PK533,Tank,DHQ Hospital Tank,dhq,Tank,32.318684,70.37376,False,False,True
+66,PK533,Tank,Tank District Public Health Diagnostic Lab,lab,Tank,32.308684,70.36376,False,True,True
+67,PK534,Tor Ghar,DHQ Hospital Tor Ghar,dhq,Tor Ghar,34.558593,72.875953,False,False,True
+68,PK534,Tor Ghar,Tor Ghar District Public Health Diagnostic Lab,lab,Tor Ghar,34.548593000000004,72.86595299999999,False,True,True
+69,PK535,Upper Dir,DHQ Hospital Upper Dir,dhq,Upper Dir,35.310534,72.048181,False,False,True
+70,PK535,Upper Dir,Upper Dir District Public Health Diagnostic Lab,lab,Upper Dir,35.300534,72.038181,False,True,True

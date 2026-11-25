@@ -1,0 +1,7 @@
+external_record_id,test_date,facility_name,district,disease,test_type,test_result,age_band,gender,patient_hash,is_corrected,source_type
+MAL-EP-001,2025-05-01,Ayub Teaching Hospital,Abbottabad,Malaria,Microscopy,Positive,25-44,Male,6a85b61eded6ac7b3d1501d506d71a2d37dfd5210d86db89e87bd198e663f1ad,False,synthetic_demo
+MAL-EP-001,2025-05-01,Ayub Teaching Hospital,Abbottabad,Malaria,Microscopy,Positive,25-44,Male,6a85b61eded6ac7b3d1501d506d71a2d37dfd5210d86db89e87bd198e663f1ad,False,synthetic_demo
+MAL-EP-002,2025-05-13,Ayub Teaching Hospital,Abbottabad,Malaria,RDT,Positive,25-44,Male,6a85b61eded6ac7b3d1501d506d71a2d37dfd5210d86db89e87bd198e663f1ad,False,synthetic_demo
+MAL-EP-003,2025-06-15,Ayub Teaching Hospital,Abbottabad,Malaria,Microscopy,Positive,25-44,Male,6a85b61eded6ac7b3d1501d506d71a2d37dfd5210d86db89e87bd198e663f1ad,False,synthetic_demo
+TYP-EP-001,2025-05-02,Saidu Teaching & DHQ Hospital Swat,Swat,Typhoid,Blood Culture,Positive,15-24,Female,3d81c852b4cff6e67222b381bfadc5166c72e5e07153337108e1d6efa184babe,False,synthetic_demo
+TYP-EP-002,2025-06-06,Saidu Teaching & DHQ Hospital Swat,Swat,Typhoid,Typhidot,Positive,15-24,Female,3d81c852b4cff6e67222b381bfadc5166c72e5e07153337108e1d6efa184babe,False,synthetic_demo

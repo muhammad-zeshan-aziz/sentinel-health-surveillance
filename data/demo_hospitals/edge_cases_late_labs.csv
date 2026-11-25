@@ -1,0 +1,5 @@
+external_record_id,test_date,facility_name,district,disease,test_type,test_result,case_status,age_band,gender,patient_hash,is_corrected,corrected_at,source_type
+CORR-REQ-101,2025-05-10,DHQ Hospital Timergara,Lower Dir,Typhoid,Blood Culture,Indeterminate,suspected,5-14,Male,2be7c97d0023694b17f91f8e41d57c91274cfca4e67c41cf75dcb863969db74f,False,,synthetic_demo
+CORR-REQ-101,2025-05-10,DHQ Hospital Timergara,Lower Dir,Typhoid,Blood Culture,Positive,confirmed,5-14,Male,2be7c97d0023694b17f91f8e41d57c91274cfca4e67c41cf75dcb863969db74f,True,2025-05-13 11:30:00,synthetic_demo
+CORR-REQ-202,2025-05-12,DHQ Hospital Haripur,Haripur,Malaria,RDT,Positive,confirmed,25-44,Female,c893cd1112d84c5950829ed4e5fb3bdae517d4a3ce0fcfe108f2746a895a8ca2,False,,synthetic_demo
+CORR-REQ-202,2025-05-12,DHQ Hospital Haripur,Haripur,Malaria,Microscopy Confirmed,Negative,suspected,25-44,Female,c893cd1112d84c5950829ed4e5fb3bdae517d4a3ce0fcfe108f2746a895a8ca2,True,2025-05-14 16:45:00,synthetic_demo
